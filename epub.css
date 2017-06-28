@@ -40,10 +40,16 @@
   src:url("Oswald-Light.ttf");
 }
 
-body { margin: 5%; text-align: justify; font-size: medium; font-family: OpenSans; }
+body {
+  margin: 1%;
+  text-align: justify;
+  font-size: small;
+  font-family: OpenSans;
+  line-height: 1.75;
+}
 code { font-family: monospace; }
-h1 { text-align: left; }
-h2 { text-align: left; }
+h1 { text-align: left; color: #333; }
+h2 { text-align: left; color: #555; }
 h3 { text-align: left; }
 h4 { text-align: left; }
 h5 { text-align: left; }

@@ -89,6 +89,6 @@ If you commit to the five agreements: be impeccable with the word; don’t take 
 
 Actionable advice:
 
-Take a look in the mirror.
+**Take a look in the mirror.**
 
 Next time you look into the mirror, remind yourself that what you see is what your mind perceives. It’s not absolute reality, because what you see in the reflection is not the same as what your mother or a dog or a bird sees. By bearing this in mind, you’ll be one step closer to knowing the difference between reality and relative reality.
