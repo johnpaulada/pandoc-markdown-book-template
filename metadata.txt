@@ -1,0 +1,16 @@
+---
+title:
+- type: main
+  text: The Fifth Agreement
+- type: subtitle
+  text: A Practical Guide to Self-Mastery
+creator:
+- role: author
+  text: Don Miguel Ruiz
+- role: author
+  text: Don Jose Ruiz
+rights: Commercial
+language: en-US
+stylesheet: epub.css
+cover-image: cover.jpg
+...

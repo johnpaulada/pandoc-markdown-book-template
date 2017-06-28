@@ -25,6 +25,6 @@ brew install pandoc
 2. Replace contents of `title.txt`, `contents.markdown`, and `cover.jpg` with your own content.
 3. Create your book with the following syntax:
 ```bash
-pandoc -S --epub-embed-font='oswald-opensans/opensans/OpenSans-*.ttf' --epub-embed-font='oswald-opensans/oswald/Oswald-*.ttf' --epub-stylesheet='epub.css' --epub-cover-image='cover.jpg' -o book.epub title.txt contents.markdown
+pandoc -S --epub-embed-font='fonts/*.ttf' -o book.epub metadata.txt contents.markdown
 ```
 Your book will be exported as `book.epub`.
