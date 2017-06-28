@@ -1,0 +1,58 @@
+@font-face {
+  font-family: OpenSans;
+  font-style: normal;
+  font-weight: normal;
+  src:url("OpenSans-Regular.ttf");
+}
+
+@font-face {
+  font-family: OpenSans;
+  font-style: normal;
+  font-weight: bold;
+  src:url("OpenSans-Bold.ttf");
+}
+
+@font-face {
+  font-family: OpenSans;
+  font-style: normal;
+  font-weight: lighter;
+  src:url("OpenSans-Light.ttf");
+}
+
+@font-face {
+  font-family: Oswald;
+  font-style: normal;
+  font-weight: normal;
+  src:url("Oswald-Regular.ttf");
+}
+
+@font-face {
+  font-family: Oswald;
+  font-style: normal;
+  font-weight: bold;
+  src:url("Oswald-Bold.ttf");
+}
+
+@font-face {
+  font-family: Oswald;
+  font-style: normal;
+  font-weight: lighter;
+  src:url("Oswald-Light.ttf");
+}
+
+body { margin: 5%; text-align: justify; font-size: medium; font-family: OpenSans; }
+code { font-family: monospace; }
+h1 { text-align: left; }
+h2 { text-align: left; }
+h3 { text-align: left; }
+h4 { text-align: left; }
+h5 { text-align: left; }
+h6 { text-align: left; }
+h1, h2, h3, h4, h5, h6 {
+  font-family: Oswald;
+}
+h1.title { }
+h2.author { }
+h3.date { }
+ol.toc { padding: 0; margin-left: 1em; }
+ol.toc li { list-style-type: none; margin: 0; padding: 0; }
