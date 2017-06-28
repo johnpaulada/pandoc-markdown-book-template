@@ -1,5 +1,6 @@
 # Pandoc Book Maker Template
 Template for creating epub books from markdown using `pandoc`.
+
 [![forthebadge](http://forthebadge.com/images/badges/built-by-hipsters.svg)](http://forthebadge.com)
 
 ## Instructions
