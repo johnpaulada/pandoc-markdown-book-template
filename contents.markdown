@@ -1,94 +1,96 @@
-# The First Agreement
-## Be impeccable in your use of words.
+# Chapter 1
+## What’s in it for me? Find the motivation to achieve your ambitious life goals.
 
-Words are a powerful creation tool – we use them all the time. But many of us don’t fully fathom just how much words matter.
+Today, a vast amount of workers are unmotivated. They go to work not because they want to but because they need the money. The work itself is merely a tedious means to a financial end.
 
-When you use words charged with self-judgment and self-rejection, you’re using words against yourself.
+These blinks explore what makes these workers so unmotivated. Often, it’s a matter of false beliefs. We tend to think that certain perks – like a generous paycheck – will be enough to motivate us to work hard. But in the end we realize that other things – like the meaning of the work we do – are far more important.
 
-We actually create our life stories through words. But when we speak with self-judgment and self-rejection, the words we use are destructive. For instance, by telling yourself, “I’m not beautiful, skinny or smart,” you are using words to judge yourself.
+In these blinks, you’ll learn
 
-But what if you became aware of how you used words against yourself? You could replace these words and create a new and better story about yourself. You could even take it further and, by using words impeccably, narrate a beautiful story about yourself that brings you joy.
+- how to work 18 hours a day without getting disillusioned;
+- that building a life project is not dissimilar to building a Lego house; and
+- why it’s worth putting effort into whatever project you’re involved in.
 
-“Using words impeccably” means using them to your benefit and not contaminating the story of your life with destructive self-judgments.
+# Chapter 2
+## Motivation is the result of several factors, but a sense of purpose tops the list.
 
-If you can train yourself to do this, your fears of being judged or rejected will fade, because you’ll know they’re just symbology relating to norms, and that symbology is only relative truth.
+Every day, you wake up, get the kids ready for school, cook breakfast and make your way to work. Repeating such a jam-packed routine week after week, year after year, can be difficult – and it’s probably already obvious that motivation is key to keeping you going.
 
-So the next time someone uses the word against you, or when you use the word against yourself by talking about your inadequacies, you’ll be able to pinpoint and see beyond the symbology, and perceive the negativity as mere words.
+But what exactly is motivation?
 
-Eventually, when fear of rejection and judgment dissipates, the desires and intentions in your life will unfold.
+Well, a cynic might say that the only thing driving anyone to do anything is money. But this couldn’t be further from the truth. Just consider this example:
 
-# The Second Agreement
-## Stop taking everything personally.
+A mom says to her daughter, “I’ll add five bucks to your allowance every week if you take out the garbage.” Is it possible that those five dollars are the only thing compelling the daughter to take out the family’s trash? Probably not.
 
-Remember a time when a family member or friend didn’t understand your way of thinking, and how hurt or angry you felt about it? We’ve all experienced this. But there’s really no use in taking misunderstandings or negative opinions to heart.
+In reality, motivation is a complex process that’s influenced by things like happiness, achievement, pride, fulfillment and countless other factors. To understand how complex it is, just consider why you’re working your current job. Is it really just for the money? (If it is, then you might want to reconsider your line of work!)
 
-It’s vital to remember that the opinions that people hold about you only concern their personal image of you. What they think about you isn’t the real you.
+In reality, people are motivated by many things – and foremost among them is meaning. Just take a struggling, young fashion designer who does everything herself, from designing the garment to making the pattern to sewing the final product. She works 18-hour days and is stressed beyond belief, but she sticks to it because, for her, this is meaningful work.
 
-If you were watching a movie about yourself, which you’d written and directed, and later watched a movie about your mother, which she’d written and directed herself, they wouldn’t share many similarities. Even though all the characters would be the same, including you and your mother, they would be portrayed in the way the movie-maker saw them. This is because you view yourself in a certain way, and this would come through in your movie. But as you watch your mother’s movie, you’d realize that she sees you differently.
+Okay, so meaning is essential. But it’s not the same thing as happiness. People often confuse these two terms, and draw false conclusions based on the confusion. Meaningful work can be miserable. People don’t engage in excruciatingly painful and difficult tasks because it makes them happy; they do it because, for them, these tasks have meaning. So don’t think that happiness is the path to motivation.
 
-Everyone lives the story that they’ve created about themselves. We form opinions based on the story we’ve created, but this is simply an image, not the truth. It’s important to remember that opinions are grounded in personal perceptions that often don’t correspond with your own.
+An example: Drinking a pina colada on the beach sounds great, and you might want to be doing that right now, but would you be happy doing it every day? It would get old pretty quickly because it’s a relatively meaningless activity.
 
-To free yourself, you must agree to stop taking other people’s opinions personally. Whatever your parents, friends or co-workers think or say about you, isn’t about the real you. Therefore it makes no sense to take these opinions personally.
+But if happiness isn’t what generates meaning, then what does? For most people, meaning comes from contributing to something bigger. In the next blinks, you’ll learn how to use this knowledge to motivate yourself.
 
-As you no longer have to worry about the opinions other people have about you, you’ll be freer to do whatever you desire, because you’ll feel immune to judgment.
+# Chapter 3
+## Working toward goals you can achieve is highly motivating.
 
-# The Third Agreement
-## Stop making assumptions and you can focus your energy on the actual truth.
+Have you heard the Greek myth of Sisyphus? Sisyphus was a hubristic and crafty king, and the gods, dismayed at his deceit, decided to punish him. They condemned him to repeat an impossible task for all eternity: he must push a massive boulder up a hill – a boulder that, once it reached the top, always rolled back down.
 
-Have you ever made a false assumption about why someone was late or didn’t show up to your meeting or date? Most people make assumptions that turn out to be false, and this can create unnecessary worry and drama.
+Thankfully, we’re not all doomed to such a repetitious fate. In real life, we don’t have to toil forever toward unreachable goals. In fact, after spending some time performing a task that doesn’t seem to be leading anywhere, most of us will simply quit.
 
-As humans, we have a need to predict, explain and justify events that happen in our lives, and when we’re uncertain about something, we fill in the gaps by imagining what people are thinking, doing, and feeling.
+Just take an experiment the author performed with engineers. The engineers were told to build something out of Lego Bionicles – a style of Lego designed to create robots with a particular personality and backstory, kind of like comic book characters. Half the engineers were in love with the activity, while the rest couldn’t have cared less.
 
-But all these assumptions are lies that we tell ourselves, and when we buy into them, we can create hurt and worry.
+Once the engineers had completed the task, the author took all the completed robots and dismantled them in front of the engineers. He then asked the engineers to build another robot. After a few rounds like this, both groups of engineers, the ones who liked the project and the ones who hated it, simply gave up. They saw no meaning in the activity.
 
-Imagine that you have a daughter who is out partying with her friends, and one night she doesn’t make her curfew. You immediately jump to conclusions and think “What if something terrible happened?”, and a whole host of scenarios start streaming through your mind. Then, a few minutes later, your daughter arrives home safely with a big smile on her face, proving that the drama in your mind was created by your assumptions.
+In contrast, performing an activity that offers a sense of achievement is extremely motivating. To prove it, the author performed the same experiment with a different group, also split between people who loved working with Legos and others who weren’t so enthusiastic.
 
-There is a far better way to spend your time and energy than by making assumptions, and that is to focus on the actual truth.
+This time, the author didn’t dismantle the robots. Instead, he simply asked them to build something else in addition to what they’d already built. While the engineers who didn’t like Legos stopped after a few rounds, the ones that loved the process kept going for much longer, but still eventually gave up. It just goes to show that, no matter how much you love something, you’ll stop doing it if your sense of achievement is removed.
 
-When we do this, the energy that we would have otherwise invested into making assumptions is used more wisely.
+So achievement is key to motivation. However, it’s not the only thing that motivates us. Next up, we’ll take a look at the other big drivers: ownership and effort.
 
-For instance, if you assume that a man is evil due to some beliefs he has that differ from your own, then you’ve distorted the truth by creating an assumption, and all of your energy is drained by this distortion.
+# Chapter 4
+## Invested effort and a sense of ownership lead to value.
 
-# The Fourth Agreement
-## Do your best and incorporate the agreements into your life.
+What do you think would be more gratifying: baking and decorating a fancy cake or making some cupcakes from a packet? For most people, it’s a no-brainer. The more satisfying option is cooking something from scratch. That’s because effort engenders meaning. It’s true of all tasks: the more effort you put in, the more meaning – and thus motivation – you’ll get out of it.
 
-You’ve now learned about three agreements: be impeccable with words, don’t take anything personally, and don’t make assumptions. But how can you integrate these into your life? By dedicating yourself to the fourth agreement: always doing your best.
+Just take two groups of people who were tasked with folding paper into origami. One group was given very clear instructions for carrying out the project. Directional arrows and written explanations guided them through the step-by-step process of completing the design. Meanwhile, the other group was given minimal and confusing instructions.
 
-When you do your best, you’ll find that the first three agreements will manifest far more easily in your life.
+Once done with the origami, the participants from the two groups were asked how much they would pay for their creations. According to the author, the participants who were given limited instructions were willing to pay much more for what they’d produced, even though many of their creations didn’t look so good. This indicates that the more effort we put into something, the more value we tend to bestow on it.
 
-The first three agreements will spark positive change in your life, but mastering them won’t be possible if you don’t practice them to the best of your ability.
+So effort plays a major role. Equally motivating is our ability to claim ownership of our work. For instance, after the origami experiment, the folded figures were shown to people who hadn’t been involved in creating them.
 
-By doing your best, your old ingrained habits – of being lazy or unscrupulous with words, of always taking what people say to heart, and making assumptions about other people’s behavior – will slowly die out. And gradually, you’ll begin to regain control over your life.
+These people said they’d be willing to pay maybe $15 for a completed origami figure. Those who had folded them, on the other hand, were prepared to pay $30 or $40 per figure. Simply put, when people can call something their own, they feel more connected to it and thus value it much more.
 
-So how do you go about doing this? You must practice them as much as you can.
+Next, we’ll look at the differences between internal and external motivators.
 
-The person you are today wasn’t created overnight; who you are and how you behave is a result of lifelong practice.
+# Chapter 5
+## The best motivators come from within.
 
-Imagine all of the skills you’ve acquired throughout your life. Whether it’s speaking, reading or riding your bike, you’d be clueless about these things if you hadn’t practiced them frequently. Therefore repetitive practice is essential if you want to incorporate the three agreements into your life.
+Have you ever wondered why exactly you want a good job? Is it the idea of a nice salary? Or the ability to provide a good life for your family?
 
-Practice is the only way, but it requires patience, so don’t fret if you fail to immediately master all of them at the same time.
+Or maybe there’s a more basic reason beneath it all: happiness. The idea of achieving happiness is a central motivator. But the paths that we think will lead to happiness – accruing material objects and pursuing monetary gain – often turn out to be dead ends. In reality, a fat paycheck and a new Porsche don’t guarantee happiness. Therefore, we shouldn’t rely on external forces like money to foster long-term motivation.
 
-# The Fifth Agreement
-## Be skeptical, but learn to listen.
+For instance, imagine your boss promises you a one-time bonus of $400 if you write 15 more emails today than you usually do. You take her up on the offer and get the cash. But would you work like crazy the next day without yet another cash incentive?
 
-Everyone wants to express their point of view by telling stories about their experience of the world. But how do you know which of the stories are true? By committing to the fifth agreement of being skeptical.
+That’s exactly what the author set out to test. In his 2013 experiment, the author offered extra money to employees responsible for assembling chips at Intel, the major American technology firm. All they had to do was promise to meet a certain quota, and they’d be given the money at the beginning of the day.
 
-To thoroughly explore what symbology people are using in their storytelling, you have to be skeptical of what is being communicated. This means agreeing with yourself to not naively buy into everything you hear, and to look behind the symbols.
+The incentive worked. But the next day, and the day after that, their productivity dropped back to normal levels. They were no longer receiving any extra money, and so had no reason to continue working better and faster.
 
-When someone communicates a message to you, ask yourself if this is the real truth, or the relative truth. By doing so you’ll become open to the truth that lies behind the symbols and words. For instance, when you hear a personal story, don’t blindly agree with the person’s point of view, but do abstain from judgment, too.
+External motivators aren’t sustainable. It’s only when we’re motivated by something within ourselves, something from which we derive pure enjoyment, that we’re able to keep working hard for the long haul.
 
-Remember, though, that being skeptical isn’t about discarding everything that everyone says. To fully understand what people are communicating, their intentions and their point of view, you also have to learn to listen. So listen to how they express symbols, while acknowledging that their point of view will be colored by their beliefs.
+For example, in the experiment described above, the employees were also told they would receive a simple “well done” text if they exceeded a certain number of units on a given day. This motivated participants and they made more chips than usual.
 
-By listening in this way, it’s easier to choose how to react. For instance, you’ll probably want to ignore someone who’s telling you you’re not smart enough or good-looking enough. By being a little skeptical, you’ll be better able to discern that what they are communicating is only their relative truth and not a real truth that you have to react to.
+On the two days that followed, they produced a bit less than before, but still went above and beyond the production of the second and third days following the money incentive. They were driven to achieve because the compliment “well done” gave them a sense of internal motivation that was connected to purpose and pushing things forward.
 
-# Final Summary
+# Final summary
 
 The key message in this book:
 
-If you commit to the five agreements: be impeccable with the word; don’t take anything personally; don’t make assumptions; always do your best; and be skeptical, but learn to listen, you’ll be able to uncover who you really are and live an easier, happier life.
+Motivation can be derived from many different places, but the main force driving people to achieve is meaning. We attain a sense of meaning from activities that require us to put in a lot of effort, take ownership over a project and reach for significant goals.
 
 Actionable advice:
 
-**Take a look in the mirror.**
+**Use your lunch break to think about how to motivate yourself.**
 
-Next time you look into the mirror, remind yourself that what you see is what your mind perceives. It’s not absolute reality, because what you see in the reflection is not the same as what your mother or a dog or a bird sees. By bearing this in mind, you’ll be one step closer to knowing the difference between reality and relative reality.
+Take 15 minutes over lunch to reflect on ways to heighten the sense of ownership and pride you take in your work. Specifically, think about the distinct contributions you make to your company that no one else could make. Understanding the value you bring to the company will certainly stoke your motivation and will in turn make you a better, happier worker.
